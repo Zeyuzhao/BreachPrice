@@ -20,3 +20,9 @@ df.to_csv(Path("..") / 'data' / 'ticker.csv')
 
 
 # %%
+
+# Get WRDS library for database functionality
+# import os 
+# os.system("pip install wrds")
+
+# %%
